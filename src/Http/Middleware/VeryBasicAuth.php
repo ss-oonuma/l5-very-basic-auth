@@ -1,6 +1,7 @@
 <?php namespace Olssonm\VeryBasicAuth\Http\Middleware;
 
 use Closure;
+use App\AdminUserBasicAuths;
 
 class VeryBasicAuth
 {

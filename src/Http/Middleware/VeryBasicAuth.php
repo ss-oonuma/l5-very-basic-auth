@@ -2,6 +2,7 @@
 
 use Closure;
 use App\Models\AdminUserBasicAuths;
+use Illuminate\Support\Facades\Hash;
 
 class VeryBasicAuth
 {
